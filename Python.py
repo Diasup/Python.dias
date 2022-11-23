@@ -10,3 +10,4 @@ def rizat():
         print("Hello my name is - ", name)
 
 
+print("Dias 12354321")
